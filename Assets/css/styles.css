@@ -1,6 +1,6 @@
 
 .entete {
-  height: 150px;
+  height: 200px;
   background-color: #fff;
 }
 
@@ -15,7 +15,7 @@ header {
 
 nav {
   display: inline-flex;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .menu-block{
